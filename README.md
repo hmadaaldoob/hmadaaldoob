@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @hmadaaldoob
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in technology and AI
+- 🌱 I’m currently learning artificial intelligence AI and machine learning ML
+- 💞️ I’m looking for a job
+- 📫 How to reach me my instagram: c.l3.c
 
-<!---
-hmadaaldoob/hmadaaldoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
